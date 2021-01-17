@@ -1,0 +1,32 @@
+<svg width="40" height="250" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="252" width="42" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <defs>
+   <clipPath id="svg_6">
+    <path id="svg_8" d="m5.8373,77.057758l1,0l0,-74l-1,0l0,74z" fill="#fff"/>
+   </clipPath>
+   <clipPath id="svg_5">
+    <path id="svg_9" d="m11.8443,71.850758l-5.507,5.213l-5.507,-5.213" fill="#fff"/>
+   </clipPath>
+  </defs>
+  <g id="svg_15">
+   <g transform="matrix(3.160493874255522,0,0,3.160493874255522,0,0) " id="svg_10">
+    <g id="svg_11">
+     <path id="svg_12" clip-path="url(#svg_6)" d="m5.8373,74.930104l0,0l1,0l0,0l0,-74l0,0l-1,0l0,0l0,74z" stroke-width="2" stroke-miterlimit="20" stroke="#fff" fill="none"/>
+    </g>
+    <g id="svg_13">
+     <path id="svg_14" clip-path="url(#svg_5)" d="m11.8443,71.850758l0,0l-5.507,5.213l0,0l-5.507,-5.213l0,0" stroke-width="2" stroke-miterlimit="20" stroke="#fff" fill="none"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
